@@ -40,3 +40,6 @@ Started all services using the `docker-compose` file:
   ![image](https://github.com/user-attachments/assets/fddb9f99-9247-4f7c-9957-41f4ab1a4bab)
   ![image](https://github.com/user-attachments/assets/ff470a0c-cb91-4a8d-b9c3-64e5b13e6cf7)
 
+
+
+### Testing Completed, Application exectuted as expected. 
