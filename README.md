@@ -4,10 +4,9 @@ Performed necssary setup of Docker containers and setup of yaml file with docker
 
 Started all services using the `docker-compose` file:
   ```
-   docker-compose up
-  ```
-
-    ![Screenshot from 2025-06-28 09-01-24](https://github.com/user-attachments/assets/ebbed727-c29c-41e8-a6f9-347c664aced1)
+**   docker-compose up
+**  ```
+![Screenshot from 2025-06-28 09-01-24](https://github.com/user-attachments/assets/ebbed727-c29c-41e8-a6f9-347c664aced1)
 
 
 **User Service
