@@ -6,6 +6,7 @@ Started all services using the `docker-compose` file:
   **docker-compose up**
 
 
+
   ![Screenshot from 2025-06-28 09-01-24](https://github.com/user-attachments/assets/ebbed727-c29c-41e8-a6f9-347c664aced1)
 
   ![Screenshot from 2025-06-28 09-00-55](https://github.com/user-attachments/assets/6202293b-3a3d-4bb3-b271-971ca1994079)
@@ -20,7 +21,11 @@ Started all services using the `docker-compose` file:
 
   ![image](https://github.com/user-attachments/assets/4c3feef0-3dea-4c85-9123-7d4a34a98164)
 
+  
+
 **Product Service**
+  
+  ![Screenshot from 2025-06-28 09-41-11](https://github.com/user-attachments/assets/e3fe6672-87f9-495c-bec5-f127c982dd8d)
 
   ![image](https://github.com/user-attachments/assets/fdce0ff8-7da7-49f9-b327-fa93737cf624)
 
